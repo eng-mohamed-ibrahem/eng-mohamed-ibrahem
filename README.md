@@ -1,8 +1,12 @@
-# 💫 About Me:
-- 🔭 I’m currently working on FLutter Mobile application called "Better One"
-- 🌱 I’m currently learning CI/CD , more advanced topic in flutter, linter rules and backend
-- 💬 Ask me about any thing in flutter or dart
-- 📫 How to reach me: <mohamed.data13@gmail.com>
+# 💫 About Me: 
+- 🔭 I’m Software Engineer & Flutter Developer with a degree in Computer Science and Engineering from Menofia University.
+- I specialize in mobile app development using Flutter. I've worked on various projects, enhancing user experiences and integrating essential features like Firebase messaging, background services, and responsive design.
+- I'm skilled in languages and frameworks like Java, Dart, and Flutter, and I'm experienced in API integration, local storage solutions, and version control. I also have strong knowledge of different architectural patterns and Flutter state management.
+- In addition to my technical skills, I'm a quick learner, good communicator, and team player. I'm fluent in Arabic and English and always eager to learn and grow in the field of software development.
+  
+## 📫 How to reach me 
+- <mohamed.data13@gmail.com>
+- https://portfolio-183d1.web.app/
 
 
 ## 🌐 Socials:
